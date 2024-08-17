@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoJoaquim.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logoMod0000" x="0" y="0" width="757" height="217" frameX="-40" frameY="-19" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0001" x="0" y="217" width="836" height="255"/>
+	<SubTexture name="logoMod0002" x="0" y="217" width="836" height="255"/>
+	<SubTexture name="logoMod0003" x="0" y="472" width="820" height="247" frameX="-8" frameY="-4" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0004" x="0" y="472" width="820" height="247" frameX="-8" frameY="-4" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0005" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0006" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0007" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0008" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0009" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0010" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0011" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0012" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0013" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+	<SubTexture name="logoMod0014" x="0" y="719" width="764" height="224" frameX="-36" frameY="-15" frameWidth="836" frameHeight="255"/>
+</TextureAtlas>
